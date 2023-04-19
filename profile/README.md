@@ -1,4 +1,4 @@
-StorkNet is a cross chain compatable protocol that not only makes networks stateless by decoupling the data from the EVM-Stack but it also can trigger function executions across other networks through it's DON. 
+StorkNet is a cross chain compatible protocol that not only makes networks stateless by decoupling the data from the EVM-Stack but it also can trigger function executions across other networks through it's DON. 
 
 This is an indepth proof of concept and is analogous to Chainlink's CCIP with a Data Storage component that allows contracts to interact with the Oracle Chain though the custom StorkQueryLanguage (StorkQL) that uses a custom datatype called "storks"
 
